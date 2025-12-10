@@ -65,12 +65,12 @@ Inside the "dados" folder, there are example PNG files that can be used to test 
 ## Acknowledgments
 This project was developed as part of my coursework for the "Ferramentas Computacionacias para Engenharia Civil" (Computational Tools for Civil Engineering) course at **UFSC** (Federal University of Santa Catarina).
 
-## Authors
+## Author
 
 João Vitor Ferreira Pedro
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
-Civil Engineer - UFSC
-
-https://github.com/jvfpedro
-
-jvfpedro@gmail.com
+Daniel Tavares dos Anjos
+[collaborator]
+[https://github.com/danieltanjos]
